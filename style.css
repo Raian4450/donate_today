@@ -1,0 +1,110 @@
+body {
+    margin: 0%;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.intro {
+    background-image: url(images/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 15em;
+    padding-bottom: 15em;
+
+}
+
+.intro h1 {
+    font-size: 4em;
+    font-weight: bolder;
+}
+
+.intro p {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.link_button {
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 1ex;
+}
+
+.donate_today {
+    margin-left: 4em;
+    text-align: center;
+    margin-top: 5em;
+}
+
+#box_style {
+    display: flex;
+    margin-left: 31em;
+    margin-top: 5em;
+
+}
+
+.box {
+    padding: 3em;
+
+    text-align: center;
+    margin-left: 2em;
+    background-color: #FAFAFA;
+    color: #707070;
+    font-size: large;
+    font-weight: bold;
+}
+
+.choose {
+    border: 2px solid #FF5959;
+    background-color: #FFEEEE;
+    color: #FF5959;
+}
+
+.amount {
+    text-decoration: none;
+    margin-left: 45em;
+    margin-top: 4em;
+
+
+
+
+}
+
+.text {
+    padding: 1em 4em;
+    border: none;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+.link_button_2 {
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 1ex;
+    margin-left: 60em;
+    margin-top: 20px;
+}
+
+.diva {
+    margin-top: 5em;
+}
+
+.icon {
+    display: flex;
+    margin-left: 2em;
+    margin-top: 4em;
+
+}
+
+.part {
+    padding-left: 5px;
+    padding-right: 2px;
+    background-color: #FFF4D6;
+}
