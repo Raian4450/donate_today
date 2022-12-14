@@ -35,7 +35,7 @@ body {
 }
 
 .donate_today {
-    margin-left: 4em;
+    margin-left: 0%;
     text-align: center;
     margin-top: 5em;
 }
@@ -66,7 +66,7 @@ body {
 
 .amount {
     text-decoration: none;
-    margin-left: 45em;
+    margin-left: 39em;
     margin-top: 4em;
 
 
@@ -88,7 +88,7 @@ body {
     background-color: #FF5959;
     padding: 10px 40px;
     border-radius: 1ex;
-    margin-left: 60em;
+    margin-left: 54em;
     margin-top: 20px;
 }
 
@@ -104,7 +104,79 @@ body {
 }
 
 .part {
-    padding-left: 5px;
-    padding-right: 2px;
-    background-color: #FFF4D6;
+    margin-left: 3em;
+    margin-right: 3em;
+    padding-left: 1em;
+    padding-top: 4em;
+    padding-bottom: 2em;
+    background-color: beige;
+    border-radius: 2em;
+}
+
+.past {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 5%;
+
+}
+
+.point {
+    width: 40%;
+    padding-right: 5%;
+
+}
+
+.point h1 {
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+.point img {
+    width: 100%;
+    border-radius: 1em;
+}
+
+.point a {
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    border-radius: 1ex;
+}
+
+.email {
+    margin-top: 5em;
+    margin-left: 40em;
+    margin-right: 40em;
+    background-color: bisque;
+}
+
+.email lebel {
+    background-color: #FF5959;
+    color: white;
+    padding: 0em;
+}
+
+.email_in {
+    padding: 5em 10em;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    margin-top: 5em;
+}
+
+.footer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+footer h2 {
+    color: #FF5959;
+}
+
+footer p {
+    color: white;
 }
